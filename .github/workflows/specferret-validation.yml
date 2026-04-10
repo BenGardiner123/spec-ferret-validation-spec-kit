@@ -5,7 +5,7 @@ on:
     inputs:
       ferret_version:
         description: 'Version of @specferret/cli to validate against'
-        default: '0.1.4'
+        default: '0.2.0'
         required: false
 
 jobs:
